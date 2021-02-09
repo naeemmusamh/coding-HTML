@@ -1,0 +1,18 @@
+ul li,
+h1 {
+    display: inline;
+    margin: 10% 3% 5% 5%;
+}
+
+ul li {
+    text-decoration: red;
+}
+
+ul {
+    background-color: green;
+}
+
+h2.center {
+    border: 2px solid blue;
+    background-color: blue;
+}

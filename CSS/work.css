@@ -1,0 +1,31 @@
+body h1 {
+    text-align: center;
+    color: whitesmoke;
+    border: 3px solid rgb(54, 54, 202);
+}
+
+body ul li {
+    margin: 10% 5% 10% 5%;
+    display: inline;
+}
+
+body {
+    background-color: rgb(125, 109, 126);
+}
+
+body ul li a {
+    text-decoration: none;
+}
+
+p {
+    font-style: oblique;
+    image-orientation: 5px;
+}
+
+li a {
+    text-decoration: none;
+}
+
+#html {
+    float: right;
+}
